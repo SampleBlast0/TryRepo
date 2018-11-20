@@ -1,0 +1,1 @@
+C:\Training\TryRepo\TryRecipe\TryRecipe.Android\obj\Debug\MonoAndroid81\TryRecipe.Android.csprojAssemblyReference.cache

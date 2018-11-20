@@ -6,3 +6,11 @@ D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.csproj.CoreCompileInputs.cache
 D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.AssemblyInfoInputs.cache
 D:\TryRecipe\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.AssemblyInfo.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.csprojAssemblyReference.cache
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.csproj.CoreCompileInputs.cache
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.AssemblyInfoInputs.cache
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.AssemblyInfo.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.dll
+C:\Training\TryRepo\TryRecipe\TryRecipe\obj\Debug\netstandard2.0\TryRecipe.pdb

@@ -1,0 +1,10 @@
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\TryRecipe.UWP.csprojAssemblyReference.cache
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\App.g.i.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\App.g.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\App.xaml
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\MainPage.xaml
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\App.xbf
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\MainPage.xbf
+C:\Training\TryRepo\TryRecipe\TryRecipe.UWP\obj\x86\Debug\XamlSaveStateFile.xml

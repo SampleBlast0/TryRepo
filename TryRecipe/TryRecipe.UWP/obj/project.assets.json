@@ -8075,24 +8075,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mlinget\\.nuget\\packages\\": {},
+    "C:\\Users\\sbradecina\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TryRecipe\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
+      "projectUniqueName": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
       "projectName": "TryRecipe.UWP",
-      "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
-      "packagesPath": "C:\\Users\\mlinget\\.nuget\\packages\\",
-      "outputPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.UWP\\obj\\",
+      "projectPath": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe.UWP\\TryRecipe.UWP.csproj",
+      "packagesPath": "C:\\Users\\sbradecina\\.nuget\\packages\\",
+      "outputPath": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\mlinget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sbradecina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8105,8 +8105,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
-              "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
+            "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
+              "projectPath": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
             }
           }
         }

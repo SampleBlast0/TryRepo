@@ -1013,20 +1013,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mlinget\\.nuget\\packages\\": {}
+    "C:\\Users\\sbradecina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TryRecipe\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
+      "projectUniqueName": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
       "projectName": "TryRecipe.iOS",
-      "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
-      "packagesPath": "C:\\Users\\mlinget\\.nuget\\packages\\",
-      "outputPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe.iOS\\obj\\",
+      "projectPath": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe.iOS\\TryRecipe.iOS.csproj",
+      "packagesPath": "C:\\Users\\sbradecina\\.nuget\\packages\\",
+      "outputPath": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\mlinget\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sbradecina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1039,8 +1039,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
-              "projectPath": "D:\\TryRecipe\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
+            "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe\\TryRecipe.csproj": {
+              "projectPath": "C:\\Training\\TryRepo\\TryRecipe\\TryRecipe\\TryRecipe.csproj"
             }
           }
         }

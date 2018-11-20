@@ -10,8 +10,9 @@
                    SearchCommand="{Binding SearchCommand}"
                    SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}"
                    Text="{Binding SearchText, Mode=TwoWay}">
-            
+
         </SearchBar>
+        <Label Text="Naeedit"/>
         <ListView x:Name="ListViewItems"
                   ItemsSource="{Binding Recipe}"
                   IsPullToRefreshEnabled="True"
