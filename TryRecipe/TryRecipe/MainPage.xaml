@@ -5,18 +5,7 @@
              x:Class="TryRecipe.MainPage">
 
     <StackLayout>
-        <SearchBar x:Name="SearchBar"
-                   Placeholder="Search"
-                   SearchCommand="{Binding SearchCommand}"
-                   SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}"
-                   Text="{Binding SearchText, Mode=TwoWay}">
-            
-        </SearchBar>
-        <ListView x:Name="ListViewItems"
-                  ItemsSource="{Binding Recipe}"
-                  IsPullToRefreshEnabled="True"
-                  Refreshing="ListViewItems_Refreshing"/>
-
+        
         <Label Text="Update update"
                FontSize="40"/>
 
