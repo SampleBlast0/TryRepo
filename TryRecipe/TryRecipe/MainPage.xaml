@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TryRecipe"
+             x:Class="TryRecipe.MainPage">
+
+    <StackLayout>
+        <SearchBar x:Name="SearchBar"
+                   Placeholder="Search"
+                   SearchCommand="{Binding SearchCommand}"
+                   SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}"
+                   Text="{Binding SearchText, Mode=TwoWay}">
+            
+        </SearchBar>
+        <ListView x:Name="ListViewItems"
+                  ItemsSource="{Binding Recipe}"
+                  IsPullToRefreshEnabled="True"
+                  Refreshing="ListViewItems_Refreshing"/>
+    </StackLayout>
+
+</ContentPage>
