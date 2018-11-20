@@ -16,6 +16,10 @@
                   ItemsSource="{Binding Recipe}"
                   IsPullToRefreshEnabled="True"
                   Refreshing="ListViewItems_Refreshing"/>
+
+        <Label Text="Update update"
+               FontSize="40"/>
+
     </StackLayout>
 
 </ContentPage>
